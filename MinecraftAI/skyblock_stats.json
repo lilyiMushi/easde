@@ -1,0 +1,27 @@
+{
+    "mining_speed": 100,
+    "walking_speed": 100,
+    "mining_fortune": 0,
+    "strength": 0,
+    "crit_chance": 5.0,
+    "crit_damage": 50.0,
+    "tools": {
+        "wooden_pickaxe": 1.0,
+        "stone_pickaxe": 1.5,
+        "iron_pickaxe": 2.0,
+        "diamond_pickaxe": 3.0,
+        "netherite_pickaxe": 4.0,
+        "efficiency_1": 1.3,
+        "efficiency_2": 1.69,
+        "efficiency_3": 2.197,
+        "efficiency_4": 2.856,
+        "efficiency_5": 3.713
+    },
+    "blocks": {
+        "stone": 1.5,
+        "cobblestone": 2.0,
+        "obsidian": 50.0,
+        "end_stone": 3.0,
+        "netherrack": 0.4
+    }
+}
